@@ -1,0 +1,120 @@
+{
+  "stats": {
+    "members": 4850,
+    "provinces": 26,
+    "eventsPerYear": 120,
+    "registered": 4850,
+    "upcoming": 5,
+    "eventsTracked": 148,
+    "yearsOfService": 66
+  },
+  "events": [
+    {
+      "id": "evt-flagship-1",
+      "titleEn": "DRC-UK Bilateral Trade & Investment Forum 2026",
+      "titleFr": "Forum d'Investissement & Commerce Bilatéral RDC-Royaume Uni 2026",
+      "date": "2026-06-18",
+      "locationEn": "Grand Hôtel Kinshasa · Kinshasa, DRC",
+      "locationFr": "Grand Hôtel Kinshasa · Kinshasa, RDC",
+      "province": "Kinshasa",
+      "type": "Bilateral / Trade",
+      "descriptionEn": "Accelerating direct foreign investments in critical mineral supply chains, commercial solar electrification, and Anglo-Congolese banking syndications under official sovereign protection.",
+      "descriptionFr": "Accélération des investissements directs étrangers dans les chaînes d'approvisionnement en minerais critiques et partenariats bancaires anglo-congolais.",
+      "image": "/storage/events-gallery/drc-uk-meeting.png",
+      "isUpcoming": true
+    },
+    {
+      "id": "evt-2",
+      "titleEn": "Central Africa Clean Energy & Mining Summit",
+      "titleFr": "Sommet Énergie Propre & Mines d'Afrique Centrale",
+      "date": "2026-07-12",
+      "locationEn": "Fleuve Congo Hotel, Kinshasa · DRC",
+      "locationFr": "Hôtel Fleuve Congo, Kinshasa · RDC",
+      "province": "Kinshasa",
+      "type": "Clean Energy",
+      "descriptionEn": "Renewable industrial transitions, hydropower grid expansions, and the ArtSolar national rollout initiative.",
+      "descriptionFr": "Transitions industrielles renouvelables, extensions du réseau hydroélectrique et initiative nationale ArtSolar.",
+      "image": "/storage/events-gallery/artsolar-meeting.png",
+      "isUpcoming": true
+    },
+    {
+      "id": "evt-3",
+      "titleEn": "Pan-African Agribusiness Trade Corridors",
+      "titleFr": "Corridors Commerciaux d'Agro-business Pan-Africains",
+      "date": "2026-08-14",
+      "locationEn": "Palais des Congrès, Lubumbashi · Haut-Katanga",
+      "locationFr": "Palais des Congrès, Lubumbashi · Haut-Katanga",
+      "province": "Haut-Katanga",
+      "type": "SME Acceleration",
+      "descriptionEn": "Connecting southern agricultural hubs with SADC regional export treaties, tax exemption corridors, and refrigerated transport chains.",
+      "descriptionFr": "Connexion des hubs agricoles du sud aux traités d'exportation régionaux SADC et exonérations fiscales.",
+      "image": "/storage/events-gallery/NJ4gwHinL7OG6yrNFR62Fc3I7Hn08sTGpQsKCk5d.jpg",
+      "isUpcoming": true
+    },
+    {
+      "id": "evt-4",
+      "titleEn": "Digital Transformation & Cross-Border Fintech",
+      "titleFr": "Transformation Numérique & Fintech Transfrontalière",
+      "date": "2026-09-02",
+      "locationEn": "Goma Serena Conference Hall · North Kivu",
+      "locationFr": "Goma Serena Conference Hall · Nord-Kivu",
+      "province": "Nord-Kivu",
+      "type": "Bilateral / Trade",
+      "descriptionEn": "Regulatory sandboxes for mobile money settlements, EAC currency interoperability, and digital customs documentation at the Goma gateway.",
+      "descriptionFr": "Sandboxes réglementaires pour les paiements mobile money, interopérabilité monétaire EAC et dédouanement numérique.",
+      "image": "/storage/events-gallery/rOSz89UsxCsHn2kmiF2hsRUUhqFlokZrtNf7EbC8.jpg",
+      "isUpcoming": true
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "titleEn": "High-Level Bilateral Exchange with Diplomatic Envoys at Ministry of Trade",
+      "titleFr": "Échange Stratégique Bilatéral avec son Excellence l'Ambassadeur & Délégations",
+      "date": "2026-05-18",
+      "photos": [
+        "/storage/events-gallery/drc-uk-meeting.png",
+        "/storage/events-gallery/7eFFWH6DdJSmT8zPqP9iZXz8IU7gaWt6ElJbkO2I.jpg",
+        "/storage/events-gallery/NJ4gwHinL7OG6yrNFR62Fc3I7Hn08sTGpQsKCk5d.jpg"
+      ]
+    },
+    {
+      "id": "gal-2",
+      "titleEn": "ArtSolar National Power Generation Initiative & Solar Array Blueprint Session",
+      "titleFr": "Partenariat Énergétique Stratégique — Projet de Génération Solaire à Grande Échelle avec ArtSolar",
+      "date": "2026-06-10",
+      "photos": [
+        "/storage/events-gallery/artsolar-meeting.png",
+        "/storage/events-gallery/UjJdNYotyXStP2wJgWpFkkGNHVmQxUaRGiqU11y9.jpg",
+        "/storage/events-gallery/ofpZuoDka8LyMd0dp3erB7D5Vlqu4TUku7reeC33.jpg"
+      ]
+    },
+    {
+      "id": "gal-3",
+      "titleEn": "65th Independence Gala & African Business Summit at Sky Hotel Sandton",
+      "titleFr": "65e Anniversaire de l'Indépendance au Sky Hotel Sandton — African Business Summit Gala",
+      "date": "2026-04-30",
+      "photos": [
+        "/storage/events-gallery/rOSz89UsxCsHn2kmiF2hsRUUhqFlokZrtNf7EbC8.jpg",
+        "/storage/events-gallery/PoQnFSQPgCxNLgOBRzoQ79mRe2AqffmSpOAK9eZK.jpg",
+        "/storage/events-gallery/IwzhMb8IK92AT5THuTzDx41j3a1jjRxsgkKx0eis.jpg"
+      ]
+    }
+  ],
+  "registrations": [
+    {
+      "id": "REG-2026-001",
+      "fullName": "Dieudonné Mwamba",
+      "email": "direction@enterprise.cd",
+      "phone": "+243 81 000 0000",
+      "country": "Democratic Republic of the Congo",
+      "province": "Kinshasa",
+      "sector": "Agribusiness & Food Security",
+      "company": "Congo Agribusiness Alliance SARL",
+      "message": "Application for Corporate Enterprise membership under OHADA rules.",
+      "type": "general",
+      "createdAt": "2026-09-28",
+      "status": "approved"
+    }
+  ]
+}
